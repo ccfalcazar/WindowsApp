@@ -1,0 +1,26 @@
+e:\caloyfiles\documents\visual studio 2015\Projects\AgatePrintingStationSolution\AgatePrintingStation\bin\Debug\AgatePrintingStation.exe.config
+e:\caloyfiles\documents\visual studio 2015\Projects\AgatePrintingStationSolution\AgatePrintingStation\obj\Debug\AgatePrintingStation.csprojResolveAssemblyReference.cache
+e:\caloyfiles\documents\visual studio 2015\Projects\AgatePrintingStationSolution\AgatePrintingStation\obj\Debug\AgatePrintingStation.Properties.Resources.resources
+e:\caloyfiles\documents\visual studio 2015\Projects\AgatePrintingStationSolution\AgatePrintingStation\obj\Debug\AgatePrintingStation.csproj.GenerateResource.Cache
+e:\caloyfiles\documents\visual studio 2015\Projects\AgatePrintingStationSolution\AgatePrintingStation\bin\Debug\AgatePrintingStation.exe
+e:\caloyfiles\documents\visual studio 2015\Projects\AgatePrintingStationSolution\AgatePrintingStation\bin\Debug\AgatePrintingStation.pdb
+e:\caloyfiles\documents\visual studio 2015\Projects\AgatePrintingStationSolution\AgatePrintingStation\obj\Debug\AgatePrintingStation.exe
+e:\caloyfiles\documents\visual studio 2015\Projects\AgatePrintingStationSolution\AgatePrintingStation\obj\Debug\AgatePrintingStation.pdb
+e:\caloyfiles\documents\visual studio 2015\Projects\AgatePrintingStationSolution\AgatePrintingStation\obj\Debug\AgatePrintingStation.frmMain.resources
+e:\caloyfiles\documents\visual studio 2015\Projects\AgatePrintingStationSolution\AgatePrintingStation\obj\Debug\AgatePrintingStation.ClientSolution.AddClientForm.resources
+E:\CaloyFiles\Documents\Visual Studio 2015\Projects\AgatePrintingStationSolution\AgatePrintingStation\obj\Debug\AgatePrintingStation.ClientSolution.ClientTableForm.resources
+E:\CaloyFiles\Documents\Visual Studio 2015\Projects\AgatePrintingStationSolution\AgatePrintingStation\obj\Debug\AgatePrintingStation.Quotation.QuotationRequestForm.resources
+D:\Projects\AgatePrintingStationSolution\AgatePrintingStation\bin\Debug\AgatePrintingStation.exe.config
+D:\Projects\AgatePrintingStationSolution\AgatePrintingStation\bin\Debug\AgatePrintingStation.exe
+D:\Projects\AgatePrintingStationSolution\AgatePrintingStation\bin\Debug\AgatePrintingStation.pdb
+D:\Projects\AgatePrintingStationSolution\AgatePrintingStation\obj\Debug\AgatePrintingStation.csproj.AssemblyReference.cache
+D:\Projects\AgatePrintingStationSolution\AgatePrintingStation\obj\Debug\AgatePrintingStation.csproj.SuggestedBindingRedirects.cache
+D:\Projects\AgatePrintingStationSolution\AgatePrintingStation\obj\Debug\AgatePrintingStation.ClientSolution.AddClientForm.resources
+D:\Projects\AgatePrintingStationSolution\AgatePrintingStation\obj\Debug\AgatePrintingStation.ClientSolution.ClientTableForm.resources
+D:\Projects\AgatePrintingStationSolution\AgatePrintingStation\obj\Debug\AgatePrintingStation.frmMain.resources
+D:\Projects\AgatePrintingStationSolution\AgatePrintingStation\obj\Debug\AgatePrintingStation.Properties.Resources.resources
+D:\Projects\AgatePrintingStationSolution\AgatePrintingStation\obj\Debug\AgatePrintingStation.Quotation.QuotationRequestForm.resources
+D:\Projects\AgatePrintingStationSolution\AgatePrintingStation\obj\Debug\AgatePrintingStation.csproj.GenerateResource.cache
+D:\Projects\AgatePrintingStationSolution\AgatePrintingStation\obj\Debug\AgatePrintingStation.csproj.CoreCompileInputs.cache
+D:\Projects\AgatePrintingStationSolution\AgatePrintingStation\obj\Debug\AgatePrintingStation.exe
+D:\Projects\AgatePrintingStationSolution\AgatePrintingStation\obj\Debug\AgatePrintingStation.pdb
